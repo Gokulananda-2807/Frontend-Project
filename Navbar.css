@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Navbar-Section{
+  font-family: "Poppins", sans-serif;
+  height: 70px;
+}
+.Navbar-Section .Manu{
+    list-style-type: none;
+    font-size: 1.1rem;
+    font-weight: 500;
+    
+}
+.Navbar-Section .Manu li a{
+    text-decoration: none;
+    color: black;
+}
+.Navbar-Section .Res-Btn{
+    background-color: #D68240 ;
+    color: #ffffff;
+    font-weight: 500;
+
+}
